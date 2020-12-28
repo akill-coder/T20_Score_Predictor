@@ -4,8 +4,10 @@ Currently, in T20 cricket matches first innings score is predicted based oncurre
 
 ###### Regression_Forest_code.py: 
 It has two ML algos
-a. Multiple regression
-b. Random forest regression
+
+
+- Multiple regression
+- Random forest regression
 
 ###### ANN_code.py:
 It has deep learning algo:
